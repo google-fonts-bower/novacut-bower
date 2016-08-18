@@ -1,0 +1,17 @@
+{
+    "name": "novacut-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Wojciech Kalinowski"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/novacut-bower.git"
+    },
+    "description": "Nova Cut font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
